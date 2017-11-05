@@ -19,6 +19,6 @@ plt.plot(x1,y1,label="first line")
 plt.plot(x2,y2,label="second line")
 
 #calling legend
-plt.legend()
+#plt.legend()
 
 plt.show()
